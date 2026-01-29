@@ -60,3 +60,18 @@ Microsoft Excel (Excel functions, Pivot Tables, Charts & Dashboard visualization
 >  The analysis shows that Prosper Tribe’s revenue is driven primarily by a small set of high-performing products and sales channels. While these segments generate most of the revenue, several products and channels underperform, presenting opportunities for strategic improvement.
 
 >  Focusing on optimizing underperforming areas while strengthening top performers can lead to improved overall sales performance.
+
+<img width="815" height="537" alt="image" src="https://github.com/user-attachments/assets/e4041ee1-d2d6-41e9-8d6d-4e0faf36d347" />
+
+<img width="825" height="530" alt="image" src="https://github.com/user-attachments/assets/718b3add-4e1a-4a8d-953b-aad0903ab96f" />
+
+<img width="825" height="530" alt="image" src="https://github.com/user-attachments/assets/d5ae0fed-f561-4be6-a5f7-d53830ad744b" />
+
+<img width="809" height="535" alt="image" src="https://github.com/user-attachments/assets/aa8eaeaf-730b-461b-b45e-65aa27ca84eb" />
+
+<img width="818" height="514" alt="image" src="https://github.com/user-attachments/assets/323d1810-7791-4791-aa95-8841f4428ace" />
+
+
+
+
+
