@@ -10,7 +10,7 @@
 
 # Project Overview
 
-> This project analyzes Prosper Tribe’s sales data using Microsoft Excel to identify top-performing products, sales channels, and revenue patterns through Pivot Tables and dashboard visualizations.
+> This project analyzes Tribe’s sales data using Microsoft Excel to identify top-performing products, sales channels, and revenue patterns through Pivot Tables and dashboard visualizations.
 
 # Tools Used
 
@@ -57,7 +57,7 @@ Microsoft Excel (Excel functions, Pivot Tables, Charts & Dashboard visualization
 
 # Conclusion
 
->  The analysis shows that Prosper Tribe’s revenue is driven primarily by a small set of high-performing products and sales channels. While these segments generate most of the revenue, several products and channels underperform, presenting opportunities for strategic improvement.
+>  The analysis shows that Tribe’s revenue is driven primarily by a small set of high-performing products and sales channels. While these segments generate most of the revenue, several products and channels underperform, presenting opportunities for strategic improvement.
 
 >  Focusing on optimizing underperforming areas while strengthening top performers can lead to improved overall sales performance.
 
